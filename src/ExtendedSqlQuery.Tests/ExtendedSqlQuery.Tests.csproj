@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{804E1E16-8993-48FB-84F1-56A19760B2FB}</ProjectGuid>
+    <ProjectGuid>{F808993F-7743-420F-B11A-973D0D701807}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExtendedSqlQuery.UnitTests</RootNamespace>
-    <AssemblyName>ExtendedSqlQuery.UnitTests</AssemblyName>
+    <RootNamespace>ExtendedSqlQuery.Tests</RootNamespace>
+    <AssemblyName>ExtendedSqlQuery.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

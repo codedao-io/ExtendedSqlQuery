@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedSqlQuery", "ExtendedSqlQuery\ExtendedSqlQuery.csproj", "{39962984-63D3-44BB-8E9E-0444CFD888DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedSqlQuery.UnitTests", "ExtendedSqlQuery.UnitTests\ExtendedSqlQuery.UnitTests.csproj", "{804E1E16-8993-48FB-84F1-56A19760B2FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedSqlQuery.Tests", "ExtendedSqlQuery.Tests\ExtendedSqlQuery.Tests.csproj", "{F808993F-7743-420F-B11A-973D0D701807}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{39962984-63D3-44BB-8E9E-0444CFD888DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39962984-63D3-44BB-8E9E-0444CFD888DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39962984-63D3-44BB-8E9E-0444CFD888DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{804E1E16-8993-48FB-84F1-56A19760B2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{804E1E16-8993-48FB-84F1-56A19760B2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{804E1E16-8993-48FB-84F1-56A19760B2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{804E1E16-8993-48FB-84F1-56A19760B2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F808993F-7743-420F-B11A-973D0D701807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F808993F-7743-420F-B11A-973D0D701807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F808993F-7743-420F-B11A-973D0D701807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F808993F-7743-420F-B11A-973D0D701807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

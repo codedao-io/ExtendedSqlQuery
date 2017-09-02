@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ExtendedSqlQuery.UnitTests")]
+[assembly: AssemblyTitle("ExtendedSqlQuery.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ExtendedSqlQuery.UnitTests")]
+[assembly: AssemblyProduct("ExtendedSqlQuery.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("804e1e16-8993-48fb-84f1-56a19760b2fb")]
+[assembly: Guid("f808993f-7743-420f-b11a-973d0d701807")]
 
 // Version information for an assembly consists of the following four values:
 //
